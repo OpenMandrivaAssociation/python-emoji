@@ -1,6 +1,6 @@
 Name:		python-emoji
 Version:	2.14.1
-Release:	2
+Release:	3
 Source0:	https://files.pythonhosted.org/packages/source/e/emoji/emoji-%{version}.tar.gz
 Summary:	Emoji for Python
 URL:		https://pypi.org/project/emoji/
