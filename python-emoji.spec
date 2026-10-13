@@ -2,7 +2,7 @@
 %bcond tests 1
 
 Name:		python-emoji
-Version:	2.15.0
+Version:	2.16.0
 Release:	1
 Summary:	Emoji terminal output for Python
 License:	BSD-3-Clause
